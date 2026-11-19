@@ -1,0 +1,10 @@
+{
+  "name": "Chấm thi qua dt",
+  "description": "Ứng dụng chấm bài thi tự động 100% trên trình duyệt bằng PDF.js, Tesseract.js, Canvas Image Processing và SheetJS (không cần API Key).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
